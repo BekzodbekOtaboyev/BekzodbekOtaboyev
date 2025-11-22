@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<!-- Banner -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 </p>
@@ -39,7 +38,7 @@
 ## 🤖 My Telegram Bots
 - **@Bek_qoravulbot** — A bot that detects and removes ads automatically
 - **@bek_anonim_chat_bot** — Anonymous questions & answers bot
-
+- **instagram_video** - This bot a instagram video downloated bot
 ---
 
 ## 📊 GitHub Stats
@@ -62,8 +61,8 @@
 ---
 
 ## 📬 Contact
-📩 **Telegram:** @BekzodbekOtaboyev  
-📧 **Email:** bekzodbek@example.com (replace with your real email)
+📩 **Telegram:** @uzbek_developer and @js_developer 
+📧 **Email:** otaboyev008@gmail.com
 
 ---
 
